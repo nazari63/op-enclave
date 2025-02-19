@@ -41,4 +41,6 @@ in particular the `# per deploy` section at the top.
 5. Run the testnet:
 ```bash
 docker-compose -f testnet/Dockerfile up
+
 ```
+This project is a demonstration of blockchain technology and smart contract integration.
